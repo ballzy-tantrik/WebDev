@@ -1,0 +1,20 @@
+p{
+	/*Content*/
+	/*width:200px;*/
+	width: 50%; /*Changes the width of the content corresponding to the parent element's size, in this case its the body*/
+	/*height:50px;*/
+	/*Border*/
+	border:2px solid blue;
+	/*padding*/
+	/*gives a certain amount of padding between the content and the border*/
+	/*padding: 10px;*/
+	padding-left: 15px;
+	/*Margin*/
+	/*space between adjacent elements is the margin*/
+	/*margin: 100px;*/
+	/*margin-top:200px;*/
+	/*margin:20px 40px 250px 60px;*/
+
+	/*margin auto centers the element accordingly to the other parameters of the margin*/
+	margin: 10px auto;
+}

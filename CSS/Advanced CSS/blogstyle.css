@@ -1,0 +1,31 @@
+/*body is centered with border of 20px thickness*/
+body{
+	font-family: "Source Serif Pro";
+	width: 800px;
+	margin: 20px auto;
+	padding: 20px 20px 20px 20px;
+	border:20px solid #bdc3c7;
+}
+
+.datesss{
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+h2{
+	color: #2c3e50;
+	text-transform: capitalize;
+	font-weight: 700;
+}
+
+.firstpara{
+	padding-left: 5px;
+	border-left:5px solid #bdc3c7;
+}
+
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
