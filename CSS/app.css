@@ -1,0 +1,21 @@
+body{
+/*	background: url(https://eyesofodysseus.files.wordpress.com/2012/06/tidal-wave1.png);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	background: pink;
+}
+
+h1{
+	color:rgba(0,200,100,0.8);
+/*	border-color: purple;
+	border-width: 3px;
+	border-style: dotted;*/
+	border: 2px solid rgb(255,100,50);
+}
+
+h4{
+	color: blue;
+}
+li{
+	color: green;
+}

@@ -1,0 +1,43 @@
+body{
+	background:orange;
+}
+
+li{
+	border: 2px dotted blue;
+}
+/*#mustdo{
+	background: green;
+}*/
+
+/*.completed{
+	text-decoration: line-through;
+}*/
+/*star selector*/
+/*selects everything*/
+*{}
+
+
+/*descendant selector*/
+/*selects the tag which is contained with in another tag*/
+/*ul li{
+	color: red;
+}*/
+
+/*Adjacent selector*/
+/*selects elements that after an element at the same level and not within the element*/
+h1 + ul{
+	border: 1px solid red;
+}
+
+/*Attribute selector*/
+/*selects all elemets with a particular tag*/
+input[type= "checkbox"]{
+	background-color: red;
+}
+
+/*nth of a type selector*/
+/*This selector nth element of a type of a tag and applies the  styling added*/
+
+/*Type selectors are least specific and are at magnitude 1*/
+/*Class selectors are next in level specific and are at magnitude 10*/
+/*id selctors are the most specific and are at magnitude 100*/
