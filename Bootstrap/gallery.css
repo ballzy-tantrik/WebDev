@@ -1,0 +1,56 @@
+body{
+	padding-top: 70px;
+}
+
+.jumbotron{
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.navbar-inverse{
+	background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+
+.image{
+	width: 100%;
+	height: 250px;
+	background-size: cover;
+	background-position: center center;
+}
+
+.image1{
+	background-image: url(https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bbe0bd1ecfaaa91394e0c9effb8b0415&auto=format&fit=crop&w=1350&q=80);
+}
+.image2{
+	background-image: url(https://images.unsplash.com/uploads/14128324071271c853818/3765c625?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fb9fdc80e4e0172a831d11c76aa1782a&auto=format&fit=crop&w=1951&q=80);
+}
+.image3{
+	background-image: url(https://images.unsplash.com/photo-1516839212682-6c4673935dfa?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cc1080b2c97301bbd83d70d0ebbdce45&auto=format&fit=crop&w=658&q=80);
+}
+.image4{
+	background-image: url(https://images.unsplash.com/photo-1484795819573-86ae049cb815?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3c2f1a5ca30bb23b6db35b356305d307&auto=format&fit=crop&w=1350&q=80);
+}
+.image5{
+	background-image: url(https://images.unsplash.com/photo-1504271863819-d279190bf871?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7d55268417d17b959f5e9eee2e198972&auto=format&fit=crop&w=634&q=80);
+}
+.image6{
+	background-image: url(https://images.unsplash.com/photo-1515135385067-5516a1e38bbe?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=18607bd62cfe38b0f51bf4532ce2db3c&auto=format&fit=crop&w=1267&q=80);
+}
+.image7{
+	background-image: url(https://images.unsplash.com/photo-1515003233195-4a6c9dc5cbf9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=867b0c4e7ef0d920cab5212d76f1b0b3&auto=format&fit=crop&w=634&q=80);
+}
+.image8{
+	background-image: url(https://images.unsplash.com/photo-1489924034176-2e678c29d4c6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c1262a4ac3fc443c4f8d09cf032c354b&auto=format&fit=crop&w=1351&q=80);
+}
+.image9{
+	background-image: url(https://images.unsplash.com/photo-1500644970114-4ff3c3dfb61f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4f25c2c79e4c7cf2c586f1efc3c98a93&auto=format&fit=crop&w=1350&q=80);
+}
+
